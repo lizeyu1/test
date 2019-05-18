@@ -2,12 +2,12 @@ package com.rabbit
 
 /**
   * @Auther: zhengqiangjun
-  * @Date: 2019/5/18 21:14
+  * @Date: 2019/5/18 21:40
   * @Description:
   */
-object testScala {
+object branch {
     def main(args: Array[String]): Unit = {
-        println("hello world 1")
+        println("branch")
     }
 
 }
